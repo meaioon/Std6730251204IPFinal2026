@@ -1,0 +1,13 @@
+{
+  "name": "std6730251204-ip-final-2026",
+  "version": "1.0.0",
+  "description": "IP Final Exam 2026 - HR Manager and Salary Analytics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
